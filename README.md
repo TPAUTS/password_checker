@@ -1,2 +1,2 @@
 # password_checker
-A simple password checker that uses the pwned api without connecting to their site.
+A simple password checker that uses the pwned API without connecting to their site.
